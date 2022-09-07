@@ -47,7 +47,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.label1);
             this.Name = "ControlloActiveX";
-            this.Size = new System.Drawing.Size(359, 150);
+            this.Size = new System.Drawing.Size(596, 202);
             this.ResumeLayout(false);
             this.PerformLayout();
 

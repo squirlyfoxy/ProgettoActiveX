@@ -7,6 +7,18 @@
 </head>
 <body>
     <h1>Questo è un header html</h1>
-    <object onerror="window.objectLoadFailure = true" classid="clsid:56362344-52FD-4911-B745-007D8F8A2842"></object>
+    <object name="oggettoActiveX" onerror="window.objectLoadFailure = true" classid="clsid:56362344-52FD-4911-B745-007D8F8A2842"></object>
+
+    <script>
+        function testo_change() {
+            var value = document.getElementById("testo");
+
+            oggettoActiveX.UpdateLabel(value.value);
+        }
+    </script>
+
+    <form>
+        <input type="text" id="testo" oninput="testo_change();"/>
+    </form>
 </body>
 </html>
