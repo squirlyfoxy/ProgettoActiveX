@@ -1,0 +1,6 @@
+C:\Users\l.baldazzi\source\repos\ActiveXLib\ActiveXLib\bin\IE\ActiveXLib.dll
+C:\Users\l.baldazzi\source\repos\ActiveXLib\ActiveXLib\obj\IE\ActiveXLib.csproj.AssemblyReference.cache
+C:\Users\l.baldazzi\source\repos\ActiveXLib\ActiveXLib\obj\IE\ActiveXLib.ControlloActiveX.resources
+C:\Users\l.baldazzi\source\repos\ActiveXLib\ActiveXLib\obj\IE\ActiveXLib.csproj.GenerateResource.cache
+C:\Users\l.baldazzi\source\repos\ActiveXLib\ActiveXLib\obj\IE\ActiveXLib.csproj.CoreCompileInputs.cache
+C:\Users\l.baldazzi\source\repos\ActiveXLib\ActiveXLib\obj\IE\ActiveXLib.dll

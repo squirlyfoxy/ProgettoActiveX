@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveXLib", "ActiveXLib\ActiveXLib.csproj", "{E84A2595-983F-423B-A058-B6C9120F7E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveXLib_Test", "ActiveXLib_Test\ActiveXLib_Test.csproj", "{A224C16B-501D-41FB-AF42-5DDC904467E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{09761C26-CDC4-4AAB-9A14-5E80D6C9C66C}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		IE|Any CPU = IE|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84A2595-983F-423B-A058-B6C9120F7E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84A2595-983F-423B-A058-B6C9120F7E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84A2595-983F-423B-A058-B6C9120F7E9E}.IE|Any CPU.ActiveCfg = IE|Any CPU
+		{E84A2595-983F-423B-A058-B6C9120F7E9E}.IE|Any CPU.Build.0 = IE|Any CPU
+		{A224C16B-501D-41FB-AF42-5DDC904467E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A224C16B-501D-41FB-AF42-5DDC904467E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A224C16B-501D-41FB-AF42-5DDC904467E0}.IE|Any CPU.ActiveCfg = IE|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {099970D5-6014-49D8-8364-8649E2765D3F}
+	EndGlobalSection
+EndGlobal
