@@ -62,6 +62,9 @@
       <DependentUpon>ControlloActiveX.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ActiveXLib_key.snk" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>for /f "usebackq tokens=*" %25%25x in (`chdir`) do set var=%25%25x
